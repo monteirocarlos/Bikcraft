@@ -184,3 +184,27 @@ margin-bottom: 40px;
 
 /* Fim Produtos */
 
+/* Portfolio Home */
+
+.portfolio {
+width: 100%;
+background: #000;
+padding: 40px 0;
+}
+
+.portfolio .subtitulo {
+color: #fec63e;    
+}
+
+.portfolio .subtitulo:after {
+background: #fec63e;    
+}
+.portfolio_lista li:last-child {
+margin-top: 20px;
+}
+
+.portfolio .call p {
+color: #fff    
+}
+
+/* Fim Portfolio Home */
