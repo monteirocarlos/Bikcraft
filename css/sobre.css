@@ -1,0 +1,12 @@
+.interna_sobre {
+background: url("../img/bg-sobre.jpg") no-repeat center;
+background-size: cover;	
+}
+
+ 
+.introducao_sobre h1 {
+font-size: 48px;
+color: #fff;
+font-weight: bold;
+text-transform: uppercase;
+}
