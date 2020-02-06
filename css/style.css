@@ -71,7 +71,8 @@ margin: 8px 0;
         
 
 img {
-display: block;    
+display: block;
+max-width: 100%;    
 }   
     
 /* Header*/
